@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  task:
+    scheduling:
+      pool:
+        size: 5
